@@ -1,0 +1,8 @@
+add nuzky
+add vrtacka
+add ohybacka
+add svarecka
+add lakovna
+add sroubovak
+add freza
+start Nora nuzky

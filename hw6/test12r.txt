@@ -1,0 +1,6 @@
+make A
+add nuzky
+add vrtacka
+start Nora nuzky
+start Vojta vrtacka
+end Vojta

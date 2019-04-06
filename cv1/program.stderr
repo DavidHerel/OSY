@@ -1,0 +1,691 @@
+Command ADD for "nuzky".
+Adding new workplace "nuzky".
+workplace "nuzky" added.
+Command ADD for "vrtacka".
+Adding new workplace "vrtacka".
+workplace "vrtacka" added.
+Command ADD for "ohybacka".
+Adding new workplace "ohybacka".
+workplace "ohybacka" added.
+Command ADD for "svarecka".
+Adding new workplace "svarecka".
+workplace "svarecka" added.
+Command ADD for "lakovna".
+Adding new workplace "lakovna".
+workplace "lakovna" added.
+Command ADD for "sroubovak".
+Adding new workplace "sroubovak".
+workplace "sroubovak" added.
+Command ADD for "freza".
+Adding new workplace "freza".
+workplace "freza" added.
+Command START for "Nora" - "nuzky".
+Worker "Nora" started!
+Worker "Nora" is looking for workplace type "nuzky".
+Worker "Nora" is waiting for job!
+Worker with name "Nora" was created and attached to the workplace "nuzky".
+Command START for "Vojta" - "vrtacka".
+Worker with name "Vojta" was created and attached to the workplace "vrtacka".
+Worker "Vojta" started!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Command START for "Otakar" - "ohybacka".
+Worker "Otakar" started!
+Worker "Otakar" is looking for workplace type "ohybacka".
+Worker "Otakar" is waiting for job!
+Worker with name "Otakar" was created and attached to the workplace "ohybacka".
+Command START for "Sofie" - "svarecka".
+Worker with name "Sofie" was created and attached to the workplace "svarecka".
+Worker "Sofie" started!
+Worker "Sofie" is looking for workplace type "svarecka".
+Worker "Sofie" is waiting for job!
+Command START for "Lucie" - "lakovna".
+Worker with name "Lucie" was created and attached to the workplace "lakovna".
+Command START for "Stepan" - "sroubovak".
+Worker "Lucie" started!
+Worker "Lucie" is looking for workplace type "lakovna".
+Worker "Lucie" is waiting for job!
+Worker "Stepan" started!
+Worker "Stepan" is looking for workplace type "sroubovak".
+Worker "Stepan" is waiting for job!
+Worker with name "Stepan" was created and attached to the workplace "sroubovak".
+Command START for "Filip" - "freza".
+Worker "Filip" started!
+Worker "Filip" is looking for workplace type "freza".
+Worker "Filip" is waiting for job!
+Worker with name "Filip" was created and attached to the workplace "freza".
+Command MAKE for 'A'.
+New job 'A' was created.
+Adding job to "nuzky".
+Number of waked workers: 1
+add JOB ONLY one
+Command MAKE for 'B'.
+New job 'B' was created.
+Adding job to "vrtacka".
+Worker "Nora" woke up!
+Worker "Nora" is looking for workplace type "nuzky".
+Number of waked workers: 1
+add JOB ONLY one
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is now working on "vrtacka"!
+Worker "Nora" is now working on "nuzky"!
+Command MAKE for 'C'.
+New job 'C' was created.
+Adding job to "freza".
+"Vojta" sleeping for 200000, ms
+Number of waked workers: 1
+add JOB ONLY one
+Worker "Filip" woke up!
+Worker "Filip" is looking for workplace type "freza".
+Worker "Filip" is now working on "freza"!
+"Filip" sleeping for 500000, ms
+"Nora" sleeping for 100000, ms
+Command START for "Nicky" - "nuzky".
+Worker "Nicky" started!
+Worker "Nicky" is looking for workplace type "nuzky".
+Worker with name "Nicky" was created and attached to the workplace "nuzky".
+Command START for "Vicky" - "vrtacka".
+Worker with name "Vicky" was created and attached to the workplace "vrtacka".
+Worker "Vicky" started!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Command START for "Omar" - "ohybacka".
+Worker "Omar" started!
+Worker "Omar" is looking for workplace type "ohybacka".
+Worker "Omar" is waiting for job!
+Worker with name "Omar" was created and attached to the workplace "ohybacka".
+Command START for "Steve" - "svarecka".
+Worker with name "Steve" was created and attached to the workplace "svarecka".
+Worker "Steve" started!
+Worker "Steve" is looking for workplace type "svarecka".
+Worker "Steve" is waiting for job!
+Command START for "Lars" - "lakovna".
+Worker with name "Lars" was created and attached to the workplace "lakovna".
+Worker "Lars" started!
+Worker "Lars" is looking for workplace type "lakovna".
+Worker "Lars" is waiting for job!
+Command START for "Sven" - "sroubovak".
+Worker with name "Sven" was created and attached to the workplace "sroubovak".
+Worker "Sven" started!
+Worker "Sven" is looking for workplace type "sroubovak".
+Worker "Sven" is waiting for job!
+Command START for "Fred" - "freza".
+Worker with name "Fred" was created and attached to the workplace "freza".
+Worker "Fred" started!
+Worker "Fred" is looking for workplace type "freza".
+Command MAKE for 'A'.
+New job 'A' was created.
+Adding job to "nuzky".
+Number of waked workers: 2
+add JOB ONLY one
+Command MAKE for 'B'.
+New job 'B' was created.
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Command MAKE for 'C'.
+New job 'C' was created.
+Adding job to "freza".
+Number of waked workers: 2
+add JOB ONLY one
+Command ADD for "nuzky".
+Adding new workplace "nuzky".
+workplace "nuzky" added.
+Command ADD for "vrtacka".
+Adding new workplace "vrtacka".
+workplace "vrtacka" added.
+Command ADD for "ohybacka".
+Adding new workplace "ohybacka".
+workplace "ohybacka" added.
+Command ADD for "svarecka".
+Adding new workplace "svarecka".
+workplace "svarecka" added.
+Command ADD for "lakovna".
+Adding new workplace "lakovna".
+workplace "lakovna" added.
+Command ADD for "sroubovak".
+Adding new workplace "sroubovak".
+workplace "sroubovak" added.
+Command ADD for "freza".
+Adding new workplace "freza".
+workplace "freza" added.
+Command MAKE for 'A'.
+New job 'A' was created.
+Adding job to "nuzky".
+Number of waked workers: 2
+add JOB ONLY one
+Received EOF, ending application!
+Nora ACTUALIZE workplace
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Nora" is looking for workplace type "nuzky".
+Worker "Nora" is now working on "nuzky"!
+"Nora" sleeping for 100000, ms
+Vojta ACTUALIZE workplace
+Adding job to "nuzky".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is now working on "vrtacka"!
+"Vojta" sleeping for 200000, ms
+Nora ACTUALIZE workplace
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Nora" is looking for workplace type "nuzky".
+Worker "Nora" is now working on "nuzky"!
+"Nora" sleeping for 100000, ms
+Nora ACTUALIZE workplace
+Adding job to "freza".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Nora" is looking for workplace type "nuzky".
+Worker "Nora" is now working on "nuzky"!
+"Nora" sleeping for 100000, ms
+Vojta ACTUALIZE workplace
+Adding job to "ohybacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Omar" woke up!
+Worker "Omar" is looking for workplace type "ohybacka".
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Omar" is now working on "ohybacka"!
+Worker "Vojta" is now working on "vrtacka"!
+"Vojta" sleeping for 200000, ms
+Worker "Otakar" woke up!
+Worker "Otakar" is looking for workplace type "ohybacka".
+Worker "Otakar" is waiting for job!
+"Omar" sleeping for 150000, ms
+Worker "Vicky" is now working on "vrtacka"!
+"Vicky" sleeping for 200000, ms
+Nora ACTUALIZE workplace
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Nora" is looking for workplace type "nuzky".
+Worker "Nora" is waiting for job!
+Worker "Nora" woke up!
+Worker "Nora" is looking for workplace type "nuzky".
+Worker "Nora" is waiting for job!
+Worker "Nora" woke up!
+Worker "Nora" is looking for workplace type "nuzky".
+Worker "Nora" is waiting for job!
+Worker "Nora" woke up!
+Worker "Nora" is looking for workplace type "nuzky".
+Worker "Nora" is waiting for job!
+Worker "Nicky" is waiting for job!
+Worker "Nicky" woke up!
+Worker "Nicky" is looking for workplace type "nuzky".
+Worker "Nicky" is waiting for job!
+Worker "Nicky" woke up!
+Worker "Nicky" is looking for workplace type "nuzky".
+Worker "Nicky" is waiting for job!
+Worker "Nicky" woke up!
+Worker "Nicky" is looking for workplace type "nuzky".
+Worker "Nicky" is waiting for job!
+Filip ACTUALIZE workplace
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Filip" is looking for workplace type "freza".
+Worker "Filip" is now working on "freza"!
+"Filip" sleeping for 500000, ms
+Omar ACTUALIZE workplace
+Adding job to "svarecka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Omar" is looking for workplace type "ohybacka".
+Worker "Omar" is waiting for job!
+Worker "Steve" woke up!
+Worker "Steve" is looking for workplace type "svarecka".
+Worker "Steve" is now working on "svarecka"!
+"Steve" sleeping for 300000, ms
+Worker "Sofie" woke up!
+Worker "Sofie" is looking for workplace type "svarecka".
+Worker "Sofie" is waiting for job!
+Vojta ACTUALIZE workplace
+Adding job to "nuzky".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is now working on "vrtacka"!
+Worker "Nora" woke up!
+Vicky ACTUALIZE workplace
+Adding job to "ohybacka".
+"Vojta" sleeping for 200000, ms
+Number of waked workers: 2
+Worker "Nora" is looking for workplace type "nuzky".
+Worker "Otakar" woke up!
+Worker "Otakar" is looking for workplace type "ohybacka".
+Worker "Otakar" is now working on "ohybacka"!
+"Otakar" sleeping for 150000, ms
+add JOB ONLY one
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is now working on "vrtacka"!
+"Vicky" sleeping for 200000, ms
+Worker "Nicky" woke up!
+Worker "Nicky" is looking for workplace type "nuzky".
+Worker "Nicky" is waiting for job!
+Worker "Nora" is now working on "nuzky"!
+"Nora" sleeping for 100000, ms
+Worker "Omar" woke up!
+Worker "Omar" is looking for workplace type "ohybacka".
+Worker "Omar" is waiting for job!
+Nora ACTUALIZE workplace
+Adding job to "freza".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Nora" is looking for workplace type "nuzky".
+Worker "Nora" is waiting for job!
+Otakar ACTUALIZE workplace
+Adding job to "svarecka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Otakar" is looking for workplace type "ohybacka".
+Worker "Otakar" is waiting for job!
+Worker "Sofie" woke up!
+Worker "Sofie" is looking for workplace type "svarecka".
+Worker "Sofie" is now working on "svarecka"!
+"Sofie" sleeping for 300000, ms
+Vojta ACTUALIZE workplace
+Adding job to "ohybacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Otakar" woke up!
+Worker "Otakar" is looking for workplace type "ohybacka".
+Worker "Otakar" is now working on "ohybacka"!
+"Otakar" sleeping for 150000, ms
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Omar" woke up!
+Worker "Omar" is looking for workplace type "ohybacka".
+Worker "Omar" is waiting for job!
+Vicky ACTUALIZE workplace
+Adding job to "sroubovak".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Stepan" woke up!
+Worker "Stepan" is looking for workplace type "sroubovak".
+Worker "Stepan" is now working on "sroubovak"!
+"Stepan" sleeping for 250000, ms
+Worker "Vicky" is waiting for job!
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Sven" woke up!
+Worker "Sven" is looking for workplace type "sroubovak".
+Worker "Sven" is waiting for job!
+Steve ACTUALIZE workplace
+Adding job to "vrtacka".
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Number of waked workers: 2
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+add JOB ONLY one
+Worker "Steve" is looking for workplace type "svarecka".
+Worker "Steve" is waiting for job!
+Worker "Steve" woke up!
+Worker "Steve" is looking for workplace type "svarecka".
+Worker "Steve" is waiting for job!
+Worker "Vojta" is now working on "vrtacka"!
+"Vojta" sleeping for 200000, ms
+Otakar ACTUALIZE workplace
+Adding job to "svarecka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Otakar" is looking for workplace type "ohybacka".
+Worker "Otakar" is waiting for job!
+Worker "Steve" woke up!
+Worker "Steve" is looking for workplace type "svarecka".
+Worker "Steve" is now working on "svarecka"!
+"Steve" sleeping for 300000, ms
+Filip ACTUALIZE workplace
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Filip" is looking for workplace type "freza".
+Worker "Filip" is now working on "freza"!
+"Filip" sleeping for 500000, ms
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is now working on "vrtacka"!
+"Vicky" sleeping for 200000, ms
+Sofie ACTUALIZE workplace
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Sofie" is looking for workplace type "svarecka".
+Worker "Sofie" is waiting for job!
+Worker "Sofie" woke up!
+Worker "Sofie" is looking for workplace type "svarecka".
+Worker "Sofie" is waiting for job!
+Vojta ACTUALIZE workplace
+Adding job to "lakovna".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is now working on "vrtacka"!
+"Vojta" sleeping for 200000, ms
+Worker "Lars" woke up!
+Worker "Lars" is looking for workplace type "lakovna".
+Worker "Lars" is now working on "lakovna"!
+"Lars" sleeping for 400000, ms
+Stepan ACTUALIZE workplace
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Stepan" is looking for workplace type "sroubovak".
+Worker "Stepan" is waiting for job!
+Worker "Lucie" woke up!
+Worker "Lucie" is looking for workplace type "lakovna".
+Worker "Lucie" is waiting for job!
+Vicky ACTUALIZE workplace
+Adding job to "lakovna".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is now working on "vrtacka"!
+"Vicky" sleeping for 200000, ms
+Worker "Lucie" woke up!
+Worker "Lucie" is looking for workplace type "lakovna".
+Worker "Lucie" is now working on "lakovna"!
+"Lucie" sleeping for 400000, ms
+Steve ACTUALIZE workplace
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Steve" is looking for workplace type "svarecka".
+Worker "Steve" is waiting for job!
+Vojta ACTUALIZE workplace
+Adding job to "lakovna".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is now working on "vrtacka"!
+"Vojta" sleeping for 200000, ms
+Vicky ACTUALIZE workplace
+Adding job to "freza".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Lars" is looking for workplace type "lakovna".
+Worker "Lars" is now working on "lakovna"!
+"Lars" sleeping for 400000, ms
+Vojta ACTUALIZE workplace
+Adding job to "lakovna".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Filip ACTUALIZE workplace
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Filip" is looking for workplace type "freza".
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Vojta" is now working on "vrtacka"!
+"Vojta" sleeping for 200000, ms
+Worker "Filip" is now working on "freza"!
+"Filip" sleeping for 500000, ms
+Lucie ACTUALIZE workplace
+Adding job to "sroubovak".
+Worker "Stepan" woke up!
+Worker "Stepan" is looking for workplace type "sroubovak".
+Worker "Stepan" is now working on "sroubovak"!
+"Stepan" sleeping for 250000, ms
+Worker "Sven" woke up!
+Worker "Sven" is looking for workplace type "sroubovak".
+Worker "Sven" is waiting for job!
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Lucie" is looking for workplace type "lakovna".
+Worker "Lucie" is now working on "lakovna"!
+"Lucie" sleeping for 400000, ms
+Vojta ACTUALIZE workplace
+Adding job to "lakovna".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Stepan" is looking for workplace type "sroubovak".
+Worker "Stepan" is waiting for job!
+Worker "Lars" is looking for workplace type "lakovna".
+Worker "Lars" is now working on "lakovna"!
+"Lars" sleeping for 400000, ms
+Filip ACTUALIZE workplace
+Adding job to "lakovna".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Filip" is looking for workplace type "freza".
+Worker "Filip" is now working on "freza"!
+"Filip" sleeping for 500000, ms
+Worker "Lucie" is looking for workplace type "lakovna".
+Worker "Lucie" is now working on "lakovna"!
+"Lucie" sleeping for 400000, ms
+Lars ACTUALIZE workplace
+Adding job to "sroubovak".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Lars" is looking for workplace type "lakovna".
+Worker "Sven" woke up!
+Worker "Sven" is looking for workplace type "sroubovak".
+Worker "Sven" is now working on "sroubovak"!
+"Sven" sleeping for 250000, ms
+Worker "Stepan" woke up!
+Worker "Stepan" is looking for workplace type "sroubovak".
+Worker "Stepan" is waiting for job!
+Worker "Lars" is waiting for job!
+Worker "Lars" woke up!
+Worker "Lars" is looking for workplace type "lakovna".
+Worker "Lars" is waiting for job!
+Worker "Lars" woke up!
+Worker "Lars" is looking for workplace type "lakovna".
+Worker "Lars" is waiting for job!
+Worker "Lars" woke up!
+Worker "Lars" is looking for workplace type "lakovna".
+Worker "Lars" is waiting for job!
+Worker "Lars" woke up!
+Worker "Lars" is looking for workplace type "lakovna".
+Worker "Lars" is waiting for job!
+Worker "Lars" woke up!
+Worker "Lars" is looking for workplace type "lakovna".
+Worker "Lars" is waiting for job!
+Worker "Lucie" is looking for workplace type "lakovna".
+Worker "Lucie" is waiting for job!
+Worker "Lucie" woke up!
+Worker "Lucie" is looking for workplace type "lakovna".
+Worker "Lucie" is waiting for job!
+Worker "Lucie" woke up!
+Worker "Lucie" is looking for workplace type "lakovna".
+Worker "Lucie" is waiting for job!
+Worker "Lucie" woke up!
+Worker "Lucie" is looking for workplace type "lakovna".
+Worker "Lucie" is waiting for job!
+Worker "Lucie" woke up!
+Worker "Lucie" is looking for workplace type "lakovna".
+Worker "Lucie" is waiting for job!
+Filip ACTUALIZE workplace
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Filip" is looking for workplace type "freza".
+Worker "Filip" is waiting for job!
+Worker "Filip" woke up!
+Worker "Filip" is looking for workplace type "freza".
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is now working on "vrtacka"!
+"Vicky" sleeping for 200000, ms
+Worker "Filip" is waiting for job!
+Worker "Filip" woke up!
+Worker "Filip" is looking for workplace type "freza".
+Worker "Filip" is waiting for job!
+Worker "Filip" woke up!
+Worker "Filip" is looking for workplace type "freza".
+Worker "Filip" is waiting for job!
+Worker "Filip" woke up!
+Worker "Filip" is looking for workplace type "freza".
+Worker "Filip" is waiting for job!
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Worker "Fred" is waiting for job!
+Worker "Fred" woke up!
+Worker "Fred" is looking for workplace type "freza".
+Worker "Fred" is waiting for job!
+Worker "Fred" woke up!
+Worker "Fred" is looking for workplace type "freza".
+Worker "Fred" is waiting for job!
+Worker "Fred" woke up!
+Worker "Fred" is looking for workplace type "freza".
+Worker "Fred" is waiting for job!
+Worker "Fred" woke up!
+Worker "Fred" is looking for workplace type "freza".
+Worker "Fred" is waiting for job!
+Worker "Sven" is looking for workplace type "sroubovak".
+Worker "Sven" is waiting for job!
+Vicky ACTUALIZE workplace
+Adding job to "sroubovak".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Sven" woke up!
+Worker "Sven" is looking for workplace type "sroubovak".
+Worker "Sven" is now working on "sroubovak"!
+"Sven" sleeping for 250000, ms
+There is job, worker and workplace for 'sroubovak'.
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Stepan" woke up!
+Worker "Stepan" is looking for workplace type "sroubovak".
+Worker "Stepan" is waiting for job!
+Sven ACTUALIZE workplace
+Adding job to "vrtacka".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Vicky" woke up!
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is now working on "vrtacka"!
+"Vicky" sleeping for 200000, ms
+There is job, worker and workplace for 'vrtacka'.
+Worker "Sven" is looking for workplace type "sroubovak".
+Worker "Sven" is waiting for job!
+Worker "Vojta" woke up!
+Worker "Vojta" is looking for workplace type "vrtacka".
+Worker "Vojta" is waiting for job!
+Vicky ACTUALIZE workplace
+Adding job to "freza".
+Number of waked workers: 2
+Worker "Fred" woke up!
+Worker "Fred" is looking for workplace type "freza".
+Worker "Filip" woke up!
+Worker "Filip" is looking for workplace type "freza".
+Worker "Filip" is waiting for job!
+add JOB ONLY one
+Worker "Vicky" is looking for workplace type "vrtacka".
+Worker "Vicky" is waiting for job!
+Worker "Fred" is now working on "freza"!
+"Fred" sleeping for 500000, ms
+Fred ACTUALIZE workplace
+Adding job to "lakovna".
+Number of waked workers: 2
+add JOB ONLY one
+Worker "Lars" woke up!
+Worker "Lars" is looking for workplace type "lakovna".
+There is job, worker and workplace for 'lakovna'.
+Worker "Fred" is looking for workplace type "freza".
+Worker "Fred" is waiting for job!
+Worker "Lucie" woke up!
+Worker "Lucie" is looking for workplace type "lakovna".
+Worker "Lucie" is waiting for job!
+Worker "Lars" is now working on "lakovna"!
+"Lars" sleeping for 400000, ms
+No work, waking up main thread.
+Worker "Lars" is looking for workplace type "lakovna".
+Disposing ALL workers!
+Worker "Lars" is waiting for job!
+Worker "Nora" woke up!
+Worker with name "Nora" was disposed.
+Worker "Vojta" woke up!
+Worker with name "Vojta" was disposed.
+Worker "Otakar" woke up!
+Worker with name "Otakar" was disposed.
+Worker "Sofie" woke up!
+Worker with name "Sofie" was disposed.
+Worker "Lucie" woke up!
+Worker with name "Lucie" was disposed.
+Worker "Stepan" woke up!
+Worker with name "Stepan" was disposed.
+Worker "Filip" woke up!
+Worker with name "Filip" was disposed.
+Worker "Nicky" woke up!
+Worker with name "Nicky" was disposed.
+Worker "Vicky" woke up!
+Worker with name "Vicky" was disposed.
+Worker "Omar" woke up!
+Worker with name "Omar" was disposed.
+Worker "Steve" woke up!
+Worker with name "Steve" was disposed.
+Worker "Lars" woke up!
+Worker with name "Lars" was disposed.
+Worker "Sven" woke up!
+Worker with name "Sven" was disposed.
+Worker "Fred" woke up!
+Worker with name "Fred" was disposed.
+All workers disposed!

@@ -1,0 +1,47 @@
+-:absolutně nechapu to strankovani a tyhle věci -> doucit se
+
+inspiracce - text alokuju na 1000
+- pak posouvat dokud to bude mensi ney ten cilovej..
+u alokovani stranek muze dojit pamet -> musim conout a vratit zpatky a rict ze to neuspelo..
+vyplnit syscall handler
+ vyplnit case szsbreak v egsyscall
+ esi = 0
+ esi != 0
+ ->pak osetrit ze esi !< break min >! break000
+ 
+ pak rozdelit na dve fce
+ bud to mazeme nebo pridavame pamet
+ porovnavame ten novy break s aktualnim breakem
+ < mazu - nemelo by dojit k chybe, uvolnim stranky ktery potrebuju a i mapovani
+        - do toho mapovani v ptab..c, pro virt dame same nuly, dulezita je 0 v attr
+        - getmapping dostanu jeji ramec (te stranky) 
+         ramec = get_mapping(0x800) & (vymaskovat 12 bitu) FFFFF000;
+         void *ptr = phys2virt(get_mapping(0x800) & (vymaskovat 12 bitu) FFFFF000;)
+         free_page(ptr);
+         pak vynulovat to mapovani
+         insert_mapping(0x8000, 0 , 0);
+         ->uvolnen virtualni pointer -> dat tam promenou a je to
+ > vetsi pridam
+    ecc - > s tim stackem
+    void *ptr = Kalloc::allocator.alloc_page(1, Kalloc::FIL_0);
+    if (ptr!=null){
+        Ptab::insert_mapping(0x8000, ptr, Rw|user|present);
+        
+        zaokrouhlim break current pomoci align_up
+        virrt = align_up(break)cyrrebt, 0x1000);
+        while (virt < r->esi){
+            delam toto
+            void *ptr = Kalloc::allocator.alloc_page(1, Kalloc::FIL_0);
+            if (ptr!=null){
+                Ptab::insert_mapping(0x8000, ptr, Rw|user|present);
+            }
+            a virt+=0x1000;
+        }
+    } else{
+        zrusit vsechno co jsem dotedka udelal
+        -> couvnout zpatky
+        tedy mazu?
+    }
+    
+    
+break min
